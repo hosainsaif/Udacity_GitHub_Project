@@ -2,3 +2,5 @@
 rental data as a part of Udacity final project for the Python course"""
 
 """ This is another edit as a part of project documentation"""
+
+"""This is another edit for resubmitting"""
