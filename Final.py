@@ -14,7 +14,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 
 def get_filters():
-    print("Hello! Let\'s explore some US bikeshare data!")
+    print("Hello! Let\'s explore some US bikeshare data! In this program, you will give us some inputs and we will spit out some Bikeshare wisdome that you will love.")
 
 
     while True:
@@ -76,7 +76,7 @@ def load_data(city, month, day):
     return df
 
 
-
+#The following function displays the most common month for rides, day and hour
 def time_stats(df):
     # TO DO: display the most common month
     mostc_month = df["month"].mode()
