@@ -6,3 +6,5 @@ rental data as a part of Udacity final project for the Python course"""
 """This is another edit for resubmitting"""
 
 """This is me pretending to be my friend editing the code"""
+
+"""Here is my friend again"""
