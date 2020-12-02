@@ -14,7 +14,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 
 def get_filters():
-    print("Hello! Let\'s explore some US bikeshare data!")
+    print("Hello! Let\'s explore some US bikeshare data! In this program, you will give us some inputs and we will spit out some Bikeshare wisdome that you will love.")
 
 
     while True:
