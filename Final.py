@@ -76,7 +76,7 @@ def load_data(city, month, day):
     return df
 
 
-
+#The following function displays the most common month for rides, day and hour
 def time_stats(df):
     # TO DO: display the most common month
     mostc_month = df["month"].mode()
